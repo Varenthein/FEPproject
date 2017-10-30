@@ -78,43 +78,5 @@ export default {
   left: 10px;
 }
 
-.position--GK {
-  background: #f39c12;
-}
-
-.position--CB,
-.position--RWB,
-.position--RB,
-.position--LB,
-.position--LWB {
-  background: #3498db;
-}
-
-.position--CMD,
-.position--RM,
-.position--LM,
-.position--CAM,
-.position--CDM,
-.position--CM {
-  background: #2ecc71;
-}
-
-.position--RF,
-.position--CF,
-.position--LF,
-.position--RW,
-.position--ST,
-.position--LW  {
-  background: #c0392b;
-}
-
-.position {
-  padding: 2px 5px;
-  text-align: center;
-  border-radius: 3px;
-  color: #fff;
-  font-size: 0.8em;
-  margin: 2px 0px;
-}
 
 </style>

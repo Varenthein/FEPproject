@@ -5,12 +5,6 @@ import api from './services/api'
 
 Vue.config.productionTip = false
 
-export const $user = {
-  isLogged: false,
-  login: ''
-}
-
-/* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
